@@ -8,8 +8,8 @@ body {
 
 body>main {
     /* margin to account for nav bar */
-    margin-top: 85px;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 60px;
 }
 
 main>.container {
@@ -32,7 +32,6 @@ main>.container {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-
 }
 
 .minHeight {
