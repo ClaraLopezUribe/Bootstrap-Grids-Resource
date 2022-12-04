@@ -17,6 +17,10 @@ main>.container {
     margin-bottom: 5rem;
 }
 
+main>.container-lg {
+    padding-top: 60px
+}
+
 .heroText {
     font-family: modesto-open-shadow, sans-serif;
     font-weight: 400;
